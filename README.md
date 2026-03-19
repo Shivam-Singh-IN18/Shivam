@@ -13,8 +13,19 @@ Always learning, always experimenting — welcome to my GitHub 🚀
 
 </h3>
 
-<img align="right" alt="Data" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-left: 20px;" />
+<div align="right">
 
+<img width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<br><br>
+
+<b>📊 Working with Data</b><br>
+<small>
+Turning raw data into insights ⚡<br>
+Building models & solving problems 🚀
+</small>
+
+</div>
 ---
 
 ### 💡 About Me
