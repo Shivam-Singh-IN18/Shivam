@@ -11,22 +11,6 @@ I enjoy exploring datasets, creating dashboards, and building models that actual
 
 Always learning, always experimenting — welcome to my GitHub 🚀
 
-</h3>
-
-<div align="right">
-
-<img width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-<br><br>
-
-<b>📊 Working with Data</b><br>
-<small>
-Turning raw data into insights ⚡<br>
-Building models & solving problems 🚀
-</small>
-
-</div>
----
 
 ### 💡 About Me
 
