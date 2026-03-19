@@ -13,7 +13,7 @@ Always learning, always experimenting — welcome to my GitHub 🚀
 
 </h3>
 
-<img align="right" alt="Data" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Data" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
@@ -39,16 +39,7 @@ Machine Learning | Deep Learning (CNN)
 **📊 Tools:**
 Power BI | Excel
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
